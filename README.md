@@ -8,4 +8,4 @@ I like to understand the problem before choosing the technology: who uses the pr
 
 **[Explore my portfolio](https://kallaslima.com)** · [LinkedIn](https://www.linkedin.com/in/kallas-lima/)
 
-[![Explore Kallas Lima's portfolio, presented as an interactive spaceship cockpit](https://kallaslima.com/r/ea4e7f5398af25e67f03/assets/social-preview.png)](https://kallaslima.com)
+[![Kallas Lima — Software engineer, Products, Systems and AI](https://kallaslima.com/r/59bbdc4052cd9c9c5e6c/assets/social-preview.png)](https://kallaslima.com)
